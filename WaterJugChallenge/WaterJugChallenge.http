@@ -1,0 +1,6 @@
+@WaterJugChallenge_HostAddress = http://localhost:5116
+
+GET {{WaterJugChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

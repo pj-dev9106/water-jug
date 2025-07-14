@@ -1,0 +1,26 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.suo
+.vs/
+
+# Package-related
+packages/
+
+# Temporary files
+~*
+
+# Test results
+TestResults/
+
+# Other generated files/folders
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+log/
+logs/
+project.lock.json
+project.fragment.lock.json
