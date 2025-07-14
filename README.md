@@ -4,6 +4,7 @@ A REST API for solving the classic Water Jug problem. Given two jugs with differ
 
 ## Table of Contents
 
+- [Swagger Documentation](#swagger-documentation)
 - [Problem Description](#problem-description)
 - [Algorithm](#algorithm)
 - [API Endpoints](#api-endpoints)
@@ -11,6 +12,11 @@ A REST API for solving the classic Water Jug problem. Given two jugs with differ
 - [Running the Application](#running-the-application)
 - [Testing](#testing)
 - [Mathematical Background](#mathematical-background)
+
+## Swagger Documentation
+
+Visit the link after running the project.
+`http://localhost:{portnumber}/swagger`
 
 ## Problem Description
 
